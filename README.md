@@ -1,2 +1,0 @@
-# FindYourGIFsApp
-Created with CodeSandbox

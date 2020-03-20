@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 10%;
+}
+
+.img {
+  width: 100%;
+}
